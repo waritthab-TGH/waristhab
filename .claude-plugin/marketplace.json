@@ -1,0 +1,5 @@
+{
+  "name": "laniakea-night",
+  "owner": { "name": "laniakea-night" },
+  "plugins": [{ "name": "laniakea-night", "source": "./" }]
+}
