@@ -1,5 +1,9 @@
 {
-  "name": "laniakea-night",
-  "owner": { "name": "laniakea-night" },
-  "plugins": [{ "name": "laniakea-night", "source": "./" }]
+  "name": "claude-night-themes",
+  "owner": { "name": "waritthab-TGH" },
+  "metadata": { "description": "Night-sky themes for the Claude desktop and mobile apps" },
+  "plugins": [
+    { "name": "laniakea-night", "source": "./laniakea-night", "description": "Night-sky theme with twinkling stars and Laniakea supercluster flow lines" },
+    { "name": "solar-system", "source": "./solar-system", "description": "Solar system backdrop with real Kepler orbital speeds, asteroid belt, Kuiper belt and Pluto" }
+  ]
 }
